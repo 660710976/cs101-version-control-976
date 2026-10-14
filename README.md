@@ -9,6 +9,10 @@
 - Learn Git and Github
 - Build a personal website
 
+## Technology Interests
+- Artificial Intelligence
+- Computer Vision
+
 ## Skill
 - Problem solving
 - Python basics
