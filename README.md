@@ -12,3 +12,8 @@
 ## Technology Interests
 - Artificial Intelligence
 - Computer Vision
+
+## Skill
+- Problem solving
+- Python basics
+- Computer Vision techniques
