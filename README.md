@@ -1,1 +1,5 @@
-# cs101-version-control
+# My CS Profile
+
+## About Me
+- Name: Chakkraphat
+- Major: Computer Science
